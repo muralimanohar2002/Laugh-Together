@@ -12,4 +12,5 @@ https://meme-api.herokuapp.com/gimme
 - Volley: implementation 'com.android.volley:volley:1.2.0'
 
 ## Preview
+![memology](https://user-images.githubusercontent.com/61517067/117987361-0823f400-b358-11eb-992a-233115139beb.gif)
 
